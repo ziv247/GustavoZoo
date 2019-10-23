@@ -1,0 +1,39 @@
+input {
+    margin: 2px 4px;
+}
+
+label,
+h1 {
+    color: white;
+}
+
+form {
+    margin: 3px auto 5px;
+    display: inline-grid;
+}
+
+.card {
+    margin: 5px;
+    width: 30%;
+}
+
+body {
+    background-color: lightslategrey;
+}
+
+.row {
+    justify-content: center;
+}
+
+.gallery {
+    margin-top: 10px;
+}
+
+button {
+    display: flex;
+    margin: auto;
+}
+
+img {
+    height: 200px;
+}
